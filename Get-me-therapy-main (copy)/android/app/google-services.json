@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323556919212",
+    "firebase_url": "https://proto-ccc58-default-rtdb.firebaseio.com",
+    "project_id": "proto-ccc58",
+    "storage_bucket": "proto-ccc58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323556919212:android:318fe298e0eecf97139c09",
+        "android_client_info": {
+          "package_name": "com.getmetherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323556919212-ic2sufgral9tii02qvbeoc9spob0iag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlsTBikJHiexaMNQEdpoK36qCeD6x99Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323556919212-ic2sufgral9tii02qvbeoc9spob0iag3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
